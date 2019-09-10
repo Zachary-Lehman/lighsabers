@@ -1,0 +1,1 @@
+obj_player.HP -= damage*damage_mod;
